@@ -30,8 +30,31 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [],
-    "visible_layers": "ffffff5_ffffffff",
+    "visible_items": [
+      "vias",
+      "footprint_text",
+      "footprint_anchors",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "drc_errors",
+      "drawing_sheet",
+      "bitmaps",
+      "pads",
+      "zones",
+      "drc_warnings",
+      "drc_exclusions",
+      "locked_item_shadows",
+      "conflict_shadows",
+      "shapes",
+      "board_outline_area",
+      "ly_points"
+    ],
+    "visible_layers": "00000000_00000000_0ffffff5_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -42,7 +65,7 @@
   },
   "meta": {
     "filename": "canGaugeDriver.kicad_prl",
-    "version": 3
+    "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
