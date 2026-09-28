@@ -1,5 +1,6 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "canGaugeDriver")(type "KiCad")(uri "${KIPRJMOD}/canGaugeDriver.pretty")(options "")(descr ""))
-  (lib (name "PHOENIX_1848710")(type "KiCad")(uri "${KIPRJMOD}/PHOENIX_1848710")(options "")(descr ""))
+	(version 7)
+	(lib (name "canGaugeDriver") (type "KiCad") (uri "${KIPRJMOD}/lib/canGaugeDriver.pretty") (options "") (descr ""))
+	(lib (name "PHOENIX_1848710") (type "KiCad") (uri "${KIPRJMOD}/lib/PHOENIX_1848710") (options "") (descr ""))
+	(lib (name "MOLEX_348260240") (type "KiCad") (uri "${KIPRJMOD}/lib/MOLEX_348260240") (options "") (descr ""))
 )
