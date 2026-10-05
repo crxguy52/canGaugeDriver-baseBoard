@@ -94,10 +94,10 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_filters_mismatch": "ignore",
+        "footprint_filters_mismatch": "warning",
         "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
@@ -116,9 +116,9 @@
         "missing_tuning_profile": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -690,7 +690,7 @@
         "uuid": "53705195-86fb-46bf-a563-00a6cdeeae38"
       }
     ],
-    "used_designators": "U1-2,DB1,C1-8,#PWR1-11,#PWR13-14,R1-31,JP1-3,J1-3,J5,J9",
+    "used_designators": "U1-2,H1-4,DB1,C1-8,#PWR1-11,#PWR13-14,R1-31,JP1-3,J1-3,J5,J9",
     "variants": []
   },
   "sheets": [
