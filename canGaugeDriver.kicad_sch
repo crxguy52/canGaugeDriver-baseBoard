@@ -24438,6 +24438,17 @@
 		)
 		(uuid "3ed5a390-c8b5-4a8e-b63c-fa612b9b718d")
 	)
+	(text "SRS\nSPEEDO\nCEL\nCOOLANT\nABS\nSEATBELT\nFUEL"
+		(exclude_from_sim no)
+		(at 214.63 167.386 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify right)
+		)
+		(uuid "4d951d87-f09b-4488-ac78-3dfac12b73ae")
+	)
 	(text "A3"
 		(exclude_from_sim no)
 		(at 146.304 190.754 0)
@@ -24506,6 +24517,17 @@
 			)
 		)
 		(uuid "9df7c09f-b772-4795-af04-7e53975269e6")
+	)
+	(text "OIL\nTACH\nALT"
+		(exclude_from_sim no)
+		(at 330.454 162.052 0)
+		(effects
+			(font
+				(size 1.5748 1.5748)
+			)
+			(justify right)
+		)
+		(uuid "a1fb649c-9fdd-4b3b-b063-b63fb5270fce")
 	)
 	(text "CEL\nCOOLANT\nABS\n\nALTERNATOR"
 		(exclude_from_sim no)
@@ -28139,7 +28161,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "12ef1dbf-e7a4-46b5-a65a-db2f9398cf5d")
 		(property "Reference" "R24"
 			(at 265.938 149.098 0)
@@ -28323,7 +28345,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "17f3edfd-7771-4d2b-808f-7efe6e012adf")
 		(property "Reference" "R26"
 			(at 281.432 149.098 0)
@@ -30579,7 +30601,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9ed507b1-8eb9-4fa4-9b6a-b2b14dab031a")
 		(property "Reference" "R27"
 			(at 289.052 149.098 0)
@@ -30902,7 +30924,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "afe1febc-2c41-42a7-95eb-1edf3c5e5798")
 		(property "Reference" "R22"
 			(at 246.38 148.844 0)
@@ -31143,7 +31165,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bb3918ce-0697-4fe8-8b89-9e2bcff62bff")
 		(property "Reference" "R29"
 			(at 366.268 149.352 0)
@@ -31621,7 +31643,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c8cad970-8a03-4648-9750-5c46307ce866")
 		(property "Reference" "R28"
 			(at 296.672 149.098 0)
@@ -32259,7 +32281,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "dd2d2df4-1499-4ff5-bf76-983a057392b4")
 		(property "Reference" "R25"
 			(at 273.812 149.098 0)
@@ -32725,7 +32747,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f2bccb69-a28b-448c-a536-09b5fc9d949c")
 		(property "Reference" "R31"
 			(at 381.762 149.098 0)
