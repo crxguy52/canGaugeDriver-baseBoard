@@ -24438,7 +24438,7 @@
 		)
 		(uuid "3ed5a390-c8b5-4a8e-b63c-fa612b9b718d")
 	)
-	(text "SRS\nSPEEDO\nCEL\nCOOLANT\nABS\nSEATBELT\nFUEL"
+	(text "SRS\nSPEEDO\nCEL OUT\nCOOLANT\nABS\nSEATBELT\nFUEL"
 		(exclude_from_sim no)
 		(at 214.63 167.386 0)
 		(effects
@@ -24495,7 +24495,7 @@
 		)
 		(uuid "8fd6dcff-61ac-49af-919d-681889faafe4")
 	)
-	(text "D1\nCEL"
+	(text "D1\nCEL IN"
 		(exclude_from_sim no)
 		(at 146.05 244.094 0)
 		(effects
